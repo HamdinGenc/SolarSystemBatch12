@@ -20,6 +20,7 @@ public class Main {
 
 
 
+
         // adding the features for stars in the solar system
 
         FeatureStars FacX= new FeatureStars();
