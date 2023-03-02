@@ -29,6 +29,13 @@ public class Main {
         FacX.size="9999999990";
 
 
+        // adding features for planet2
+        Planet2 Oslo=new Planet2();
+        Oslo.name="Ozhan";
+        Oslo.size="694254km";
+        Oslo.color="pink";
+
+
 
         //adding features for planet1
 
@@ -36,6 +43,7 @@ public class Main {
         Gulk.color="blue";
         Gulk.size="74356849623095km";
         Gulk.name="preacheX";
+
 
         
     }
